@@ -1,3 +1,3 @@
 # Go-Language
-First Commit
+First Commit\n
 second commit
